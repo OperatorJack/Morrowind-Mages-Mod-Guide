@@ -1,4 +1,4 @@
-# Morrowind Mages Mod Guide
+# OperatorJack's Mage's Mod Guide
 ### By OperatorJack
 A mod list for the aspiring mage, in TES III: Morrowind.
 
