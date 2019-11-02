@@ -36,15 +36,13 @@ Using MWSE Lua & Magicka Expanded, adds a miniquest to obtain a spell to telepor
 Adds a new magic effect, *The Astral Pocket.*  
 Requires **Magicka Expanded**.
 
-**[Fortified Molag Mar](https://www.nexusmods.com/morrowind/mods/47270) by *Team Voluptuous Velks***
-
+**[Fortified Molag Mar](https://www.nexusmods.com/morrowind/mods/47270) by *Team Voluptuous Velks***  
 Visit a reforged Molag Mar to embark upon a series of quests to discover what happened to a missing Buoyant Armiger. Adds 5 increasingly difficult quests, innovative magic effects, and battles that only a God could win.
 
 Adds new magic effects including: *Slow Time, Decimate, Fires of Oblivion, and Spawn Chair.*  
 Requires **Tamriel_Data** and **Magicka Expanded**.
 
 **[Deeper Dagoth Ur](https://www.nexusmods.com/morrowind/mods/47234) by *Team Voluptuous Velks***  
-
 Significant overhaul of the exterior and interior of Dagoth Ur, transforming it into a fortress befitting its legendary status.
 Ancient technology and the power of the heart of Lorkhan will present new challenges.
 
