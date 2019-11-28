@@ -11,6 +11,9 @@ New gameplay mechanics will be listed here.
 **[Illegal Summoning](https://www.nexusmods.com/morrowind/mods/47105) by *OperatorJack***  
 Using MWSE Lua, this mod makes it so that performing a summoning spell in a town or city is illegal, as it was originally intended to be. Applies to the player, NPCs, and creatures.
 
+**[Magic Mechanics](https://www.nexusmods.com/morrowind/mods/47338) by *OperatorJack***
+Introduces new magic mechanics including homing projectiles and cast-on-swing enchantments.
+
 **[Purist Friendly Magicka Regen](https://www.nexusmods.com/morrowind/mods/45636) by *Remiros & Greatness7***  
 Adds fully functioning magicka regeneration to the game.
 
