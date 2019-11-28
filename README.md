@@ -21,7 +21,7 @@ Adds fully functioning magicka regeneration to the game.
 New magic, magic effects, enchantments, and other magic-specific mechanics will be listed here.
 
 **[Magicka Expanded](https://www.nexusmods.com/morrowind/mods/47111?tab=description) by *OperatorJack & RedFurryDemon***  
-A lua-based framework for creating new, fully functional magic effects. Currently adds 103 new magic effects.
+A lua-based framework for creating new, fully functional magic effects. Currently adds 109 new magic effects.
 
 Adds over 100 new magic effects to the game. Unlike older spell mods such as Cortex's Scripted Spells, these effects are fully integrated into the game engine and do not use global scripts or other "hacky" methods to work. They work just like vanilla effects.  
 **This framework is required for many of the mods in this mod list.**
